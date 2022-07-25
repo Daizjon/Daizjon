@@ -4,6 +4,5 @@
 - Feel free to browse my folders and check out my work! For ease of access, my repositories will be labeled the topic they involve such as "C programs" then will have multiple folders within the repository for the multiple programs. I'm currently uploading old projects as well as working on new ones, so feel free to check back in for new updates!
 - 🌱 I’m currently a senior at UT (go Vols!) about to acheive my bachelors within the school year in Electrical Engineering.
 - 📫 Feel free to to reach me at daizjoncarney@gmail.com 
-or view my linkined
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daizjon-carney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/daizjon-carney?trk=profile-badge">Dai'zjon Carney</a></div>
+- Linkined: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daizjon-carney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/daizjon-carney?trk=profile-badge">Dai'zjon Carney</a></div>
               
