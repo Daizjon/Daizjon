@@ -1,8 +1,52 @@
-- 👋 Hi, I’m @Daizjon
-- 👀 I’m interested in all sorts of things, from Software to Hardware! Programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab 
-- I've also worked on projects dealing with; FPGAs, Microcontrollers, Circuit Design, CAD Design, Signal Processing, Embedded Systems, Web Design & Development, Linux, and more.
-- Feel free to browse my folders and check out my work! For ease of access, my repositories will be labeled the topic they involve such as "C programs" then will have multiple folders within the repository for the multiple programs. I'm currently uploading old projects as well as working on new ones, so feel free to check back in for new updates!
-- 🌱 I’m currently a senior at UT (go Vols!) about to acheive my bachelors within the school year in Electrical Engineering.
-- 📫 Feel free to to reach me at daizjoncarney@gmail.com 
-- Linkined: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daizjon-carney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/daizjon-carney?trk=profile-badge">Dai'zjon Carney</a></div>
-              
+## Hi there I'm Dai'zjon 👋,
+
+## 👨🏻‍💻 &nbsp;About Me:
+ 
+🎓 &nbsp; I’m a current senior at the University of TN (go vols!) and will get my bachelors in Electrical Engineering in May 2023. \
+⚖️ &nbsp; I'm passionately interested in both ***hardware*** and ***software***! I enjoy having a balance of the two. \
+⌨️ &nbsp; Current programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
+🔨 &nbsp; I've worked with projects dealing with FPGAs, Microcontrollers, Circuit Design, CAD Design, Signal Processing, and Embedded Systems. \
+⛏  &nbsp; I've also worked with projects dealing with Web Design & Development, Linux systems, Cyber Security, Game Design, and more! \
+💪 &nbsp; In my free time, I enjoy working out, gaming, working on animations, and learning new code. \
+📜 &nbsp; Browse my repositories and check out my work! \
+📅 &nbsp; I'm currently uploading old projects as well as working on new ones, so check back in for new updates! \
+📨 &nbsp; Feel free to to reach me at daizjoncarney@gmail.com
+
+
+## 🛠 &nbsp;Tech Stack:
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog&logoColor=FFA518)&nbsp;
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL&logoColor=FFA518)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB&logoColor=FFA518)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=FFA518)&nbsp;
+![RISCV](https://img.shields.io/badge/-RISCV-05122A?style=flat&logo=RISCV&logoColor=FFA518)&nbsp;\
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=Unreal-Engine&logoColor=007ACC)&nbsp;
+
+
+## ⚙️ &nbsp;GitHub Analytics:
+
+<p align="left">
+<a href="https://github.com/Daizjon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daizjon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daizjon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## 📫 &nbsp; How To Reach Me:
+<a href="https://www.linkedin.com/in/daizjon-carney/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:daizjoncarney@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/zjondai"><img src="https://img.shields.io/badge/-@zjondai-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+
