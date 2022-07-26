@@ -1,9 +1,8 @@
-![Daizjon Banner](https://github.com/Daizjon/Daizjon/blob/main/logo.jpg)
-
-## Hi there I'm Dai'zjon 👋,
+![BannerGIF](https://github.com/Daizjon/Daizjon/blob/main/logo.gif)
 
 ## 👨🏻‍💻 &nbsp;About Me:
  
+👋 &nbsp; Hey there, I'm Dai'zjon Carney \
 🎓 &nbsp; I’m a current senior at the University of TN (go vols!) and will get my bachelors in Electrical Engineering in May 2023. \
 ⚖️ &nbsp; I'm passionately interested in both ***hardware*** and ***software***! I enjoy having a balance of the two. \
 ⌨️ &nbsp; Current programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
