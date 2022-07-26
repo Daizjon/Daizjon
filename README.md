@@ -5,7 +5,7 @@
 👋 &nbsp; Hey there, I'm Dai'zjon Carney. \
 🎓 &nbsp; I’m a current senior at the University of TN (go vols!) and will get my bachelors in Electrical Engineering in May 2023. \
 ⚖️ &nbsp; I'm passionately interested in both ***hardware*** and ***software***! I enjoy having a balance of the two. \
-⌨️ &nbsp; Current programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
+⌨️ &nbsp; Programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
 🔨 &nbsp; I've worked with projects dealing with FPGAs, Microcontrollers, Circuit Design, CAD Design, Signal Processing, and Embedded Systems. \
 ⛏  &nbsp; I've also worked with projects dealing with Web Design & Development, Linux systems, Cyber Security, Game Design, and more! \
 💪 &nbsp; In my free time, I enjoy working out, gaming, working on animations, and learning new code. \
