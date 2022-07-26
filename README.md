@@ -1,3 +1,5 @@
+![Daizjon Banner](https://github.com/Daizjon/Daizjon/blob/main/logo.jpg)
+
 ## Hi there I'm Dai'zjon 👋,
 
 ## 👨🏻‍💻 &nbsp;About Me:
