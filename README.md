@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp; \
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=Unreal-Engine&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23150458.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/Wordpress%20-%23150458.svg?&style=flat&logo=Wordpress&logoColor=white)&nbsp;
