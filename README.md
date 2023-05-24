@@ -14,6 +14,12 @@
 📨 &nbsp; Feel free to to reach me at daizjoncarney@gmail.com
 
 
+## 👨🏻‍💻 &nbsp;Github Structure:
+👋 &nbsp; Indiviual projects will be in their respective repository. \
+however for projects and assignments done for Univeristy classes may \
+
+
+
 ## 🛠 &nbsp;Tech Stack:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
