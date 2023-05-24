@@ -14,7 +14,7 @@
 📨 &nbsp; Feel free to to reach me at daizjoncarney@gmail.com
 
 
-## 👨🏻‍💻 &nbsp;Github Structure:
+## 🏠 &nbsp;Github Structure:
 • &nbsp; For personal, indiviual projects you can expect it to be one project per its respective repository. \
 • &nbsp; For projects/assignments done under the same topic or under the same course done in school, then you can expect multiple projects within that repo. \
 • &nbsp; For repos with multiple projects, or multiple working parts, there will be seperate folders within the repo for them. \
