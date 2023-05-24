@@ -20,7 +20,7 @@
 • &nbsp; For repos with multiple projects, or multiple working parts, there will be seperate folders within the repo for them. \
 • &nbsp; For ALL projects, there will be a readme files signifying its purpose (as well as how to implement the project if not inheritenly clear). \
 • &nbsp; As for the repo naming convention, the title will be listed as the main programming language followed by the project name. \
-• &nbsp; If there are multiple programming languages involved then the title will just be the name of the project.  \
+• &nbsp; If there are multiple programming languages involved then the title will just be the name of the project. \
 
 
 
