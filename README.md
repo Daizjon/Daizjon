@@ -16,7 +16,7 @@
 
 ## 🏠 &nbsp;Github Structure:
 • &nbsp; For personal, indiviual projects you can expect it to be one project per its respective repository. \
-• &nbsp; For projects/assignments done under the same topic or under the same course done in school, then you can expect multiple projects within that repo. \
+• &nbsp; For projects done under the same course work, then you can expect multiple projects within that repo. \
 • &nbsp; For repos with multiple projects, or multiple working parts, there will be seperate folders within the repo for them. \
 • &nbsp; For ALL projects, there will be a readme files signifying its purpose (as well as how to implement the project if not inheritenly clear). \
 • &nbsp; As for the repo naming convention, the title will be listed as the main programming language followed by the project name. \
