@@ -7,7 +7,7 @@
 ⚖️ &nbsp; I'm interested in both ***hardware*** and ***software***! I enjoy having a balance of the two. \
 ⌨️ &nbsp; Programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
 🔨 &nbsp; I've worked on projects dealing with FPGAs, Microcontrollers, Circuit & CAD Design, Signal Processing, and Embedded Systems. \
-⛏  &nbsp; I've also worked on projects dealing with Web Design & Development, Linux systems, Cyber Security, Game Design, and more! \
+⛏  &nbsp; I've also worked on projects dealing with Web Design & Development, Linux systems, Machine Learning, Game Design, and more! \
 💪 &nbsp; In my free time, I enjoy working out, gaming, working on animations, and learning new code. \
 📜 &nbsp; Browse my repositories and check out my work! \
 📅 &nbsp; I'm currently uploading old projects as well as working on new ones, so check back in my repositories for new updates! \
