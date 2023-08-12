@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;About Me:
  
 👋 &nbsp; Hey there, I'm Dai'zjon Carney. \
-🎓 &nbsp; I’m a recent graduate of the University of TN and received my bachelors in Electrical Engineering in May 2023. \
+🎓 &nbsp; I’m a graduate of the University of TN with a bachelors in Electrical Engineering. \
 ⚖️ &nbsp; I'm interested in both ***hardware*** and ***software***! I enjoy having a balance of the two. \
 ⌨️ &nbsp; Programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
 🔨 &nbsp; I've worked on projects dealing with FPGAs, Microcontrollers, Circuit & CAD Design, Signal Processing, and Embedded Systems. \
