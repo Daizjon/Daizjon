@@ -1,17 +1,22 @@
 ![BannerGIF](https://github.com/Daizjon/Daizjon/blob/main/logo.gif)
 
-## 👨🏻‍💻 &nbsp;About Me:
- 
-👋 &nbsp; Hey there, I'm Dai'zjon Carney. \
-🎓 &nbsp; I’m a graduate of the University of TN with a bachelors in Electrical Engineering. \
-⚖️ &nbsp; I'm interested in both ***hardware*** and ***software***! I enjoy having a balance of the two. \
-⌨️ &nbsp; Programming languages I'm fluent in include; C, C++, Python, HTML, JavaScript, CSS, VHDL, Verilog, R, Assembly, and Matlab. \
-🔨 &nbsp; I've worked on projects dealing with FPGAs, Microcontrollers, Circuit & CAD Design, Signal Processing, and Embedded Systems. \
-⛏  &nbsp; I've also worked on projects dealing with Web Design & Development, Linux systems, Machine Learning, Game Design, and more! \
-💪 &nbsp; In my free time, I enjoy working out, gaming, working on animations, and learning new code. \
-📜 &nbsp; Browse my repositories and check out my work! \
-📅 &nbsp; I'm currently uploading old projects as well as working on new ones, so check back in my repositories for new updates! \
-📨 &nbsp; Feel free to to reach me at daizjoncarney@gmail.com
+## 🚀 About Me
+
+Electrical & Software Engineer focused on hardware–software integration, embedded systems, and scalable application development.
+
+I design and build reliable systems spanning embedded firmware, circuit design, FPGA development, automation frameworks, and full software implementations. My work connects low-level hardware with high-level software to create complete, production-ready solutions.
+
+### Core Focus Areas
+- Embedded Systems & Firmware (C/C++, Microcontrollers)
+- FPGA Development (VHDL / Verilog)
+- Software Engineering (Python, automation tools, system applications)
+- Hardware Test & Validation
+- Circuit Design & Signal Processing
+- System Architecture & Integration
+
+I’m continuously refining existing systems and building new projects that emphasize performance, reliability, and clean engineering design.
+
+📫 Contact: daizjoncarney@gmail.com
 
 
 ## 🏠 &nbsp;Github Structure:
