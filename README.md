@@ -66,16 +66,8 @@ I’m continuously refining existing systems and building new projects that emph
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23150458.svg?&style=flat&logo=Jupyter)
 
-## ⚙️ &nbsp;GitHub Analytics:
 
-<p align="left">
-<a href="https://github.com/Daizjon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daizjon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daizjon&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-## 📫 &nbsp; How To Reach Me:
+## How To Reach Me
 <a href="https://www.linkedin.com/in/daizjon-carney/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:daizjoncarney@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <!--<a href="https://instagram.com/zjondai"><img src="https://img.shields.io/badge/-@zjondai-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;-->
