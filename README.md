@@ -39,6 +39,7 @@ I’m continuously refining existing systems and building new projects that emph
 ### Hardware & Low-Level Systems
 ![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat)
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-05122A?style=flat)
+![FPGA](https://img.shields.io/badge/-FPGA-05122A?style=flat)
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat)
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat)
 ![RISC-V](https://img.shields.io/badge/-RISC--V-05122A?style=flat)
