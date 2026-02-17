@@ -28,28 +28,43 @@ I’m continuously refining existing systems and building new projects that emph
 
 
 ## 🛠 &nbsp;Tech Stack:
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog&logoColor=FFA518)&nbsp;
-![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL&logoColor=FFA518)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB&logoColor=FFA518)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=FFA518)&nbsp;
-![RISCV](https://img.shields.io/badge/-RISCV-05122A?style=flat&logo=RISCV&logoColor=FFA518)&nbsp;\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp; \
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=Unreal-Engine&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23150458.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Wordpress](https://img.shields.io/badge/Wordpress%20-%23150458.svg?&style=flat&logo=Wordpress&logoColor=white)&nbsp;
 
+### Core Engineering Languages
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-05122A?style=flat)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat)
+
+### Hardware & Low-Level Systems
+![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat)
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-05122A?style=flat)
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat)
+![RISC-V](https://img.shields.io/badge/-RISC--V-05122A?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
+
+### Software & Automation
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
+
+### Web Development
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat)
+
+### Hardware & Test Tools
+- PCB Design
+- Oscilloscope & Lab Instrumentation
+- Circuit Debugging & Signal Analysis
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23150458.svg?&style=flat&logo=Jupyter)
 
 ## ⚙️ &nbsp;GitHub Analytics:
 
