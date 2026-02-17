@@ -2,7 +2,7 @@
 
 ## About Me
 
-Electrical & Software Engineer focused on hardware–software integration, embedded systems, and scalable application development.
+Electrical & Software Engineer specializing in hardware–software integration, embedded systems, test automation, and scalable application development.
 
 I design and build reliable systems spanning embedded firmware, circuit design, FPGA development, automation frameworks, and full software implementations. My work connects low-level hardware with high-level software to create complete, production-ready solutions.
 
