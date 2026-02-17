@@ -1,6 +1,6 @@
 ![BannerGIF](https://github.com/Daizjon/Daizjon/blob/main/logo.gif)
 
-## 🚀 About Me
+## About Me
 
 Electrical & Software Engineer focused on hardware–software integration, embedded systems, and scalable application development.
 
@@ -19,7 +19,7 @@ I’m continuously refining existing systems and building new projects that emph
 📫 Contact: daizjoncarney@gmail.com
 
 
-## 🏠 Repository Structure
+## Repository Structure
 
 • Individual projects are maintained in separate repositories when appropriate.  
 • Multi-project coursework repositories are organized into clearly separated folders.  
@@ -27,7 +27,7 @@ I’m continuously refining existing systems and building new projects that emph
 • Naming conventions reflect primary technologies or system focus for clarity and consistency. 
 
 
-## 🛠 &nbsp;Tech Stack:
+## Tech Stack
 
 ### Core Engineering Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
