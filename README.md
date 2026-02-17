@@ -10,7 +10,7 @@ I design and build reliable systems spanning embedded firmware, circuit design, 
 - Embedded Systems & Firmware (C/C++, Microcontrollers)
 - FPGA Development (VHDL / Verilog)
 - Software Engineering (Python, automation tools, system applications)
-- Hardware Test & Validation
+- Hardware Test & Validation (automated testing, instrumentation, verification)
 - Circuit Design & Signal Processing
 - System Architecture & Integration
 
