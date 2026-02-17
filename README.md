@@ -24,7 +24,7 @@ I’m continuously refining existing systems and building new projects that emph
 • Individual projects are maintained in separate repositories when appropriate.  
 • Multi-project coursework repositories are organized into clearly separated folders.  
 • Each repository includes documentation outlining purpose, implementation details, and usage instructions.  
-• Naming conventions reflect primary technologies or system focus for clarity and consistency. 
+• Naming conventions reflect primary technologies or system focus to ensure clarity and consistency.
 
 
 ## Tech Stack
@@ -44,10 +44,12 @@ I’m continuously refining existing systems and building new projects that emph
 ![RISC-V](https://img.shields.io/badge/-RISC--V-05122A?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
 
-### Software & Automation
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
+### Software Engineering & Test Automation
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PyTest](https://img.shields.io/badge/-PyTest-05122A?style=flat&logo=pytest)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -59,6 +61,7 @@ I’m continuously refining existing systems and building new projects that emph
 - PCB Design
 - Oscilloscope & Lab Instrumentation
 - Circuit Debugging & Signal Analysis
+- Power System Design & Analysis
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
