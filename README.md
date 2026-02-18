@@ -21,10 +21,10 @@ I’m continuously refining existing systems and building new projects that emph
 
 ## Repository Structure
 
-• Individual projects are maintained in separate repositories when appropriate.  
-• Multi-project coursework repositories are organized into clearly separated folders.  
-• Each repository includes documentation outlining purpose, implementation details, and usage instructions.  
-• Naming conventions reflect primary technologies or system focus to ensure clarity and consistency.
+- Major engineering projects are maintained in dedicated repositories to preserve architectural clarity and version integrity.<br>
+- Coursework or concept-focused collections are grouped logically, with each project isolated in clearly documented subdirectories. <br>
+- All repositories include structured documentation covering system overview, implementation details, and usage instructions.<br>
+- Naming conventions reflect the primary technology stack or system domain to ensure discoverability and consistency.
 
 
 ## Tech Stack
